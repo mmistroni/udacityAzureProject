@@ -1,2 +1,2 @@
 # udacityAzureProject
- Azure Experiments
+Miscellaneous scripts to interact with my Azure account
